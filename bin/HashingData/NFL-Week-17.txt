@@ -1,0 +1,32 @@
+St. Louis 32
+NY Jets 29
+New England 21
+San Francisco 7
+Cincinnati 38
+Philadelphia 10
+Washington 21
+Minnesota 18
+New Orleans 21
+Carolina 18
+Baltimore 30
+Miami 23
+Pittsburgh 29
+Buffalo 24
+Green Bay 31
+Chicago 14
+Cleveland 22
+Houston 14
+Tennessee 24
+Detroit 19
+Seattle 28
+Atlanta 26
+Arizona 12
+Tampa Bay 7
+San Diego 24
+Kansas City 17
+Jacksonville 13
+Oakland 6
+Denver 33
+Indianapolis 14
+NY Giants 28
+Dallas 24

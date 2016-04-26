@@ -1,0 +1,28 @@
+NY Giants 27
+Cleveland 10
+Minnesota 27
+Chicago 22
+New Orleans 28
+St. Louis 25
+Baltimore 23
+Cincinnati 9
+Atlanta 6
+Arizona 3
+Houston 24
+Kansas City 21
+Jacksonville 15
+Tennessee 12
+Philadelphia 30
+Detroit 13
+Denver 23
+San Diego 13
+Indianapolis 45
+Green Bay 31
+Seattle 34
+San Francisco 0
+Oakland 30
+Tampa Bay 20
+Pittsburgh 13
+Miami 3
+Dallas 21
+Washington 18

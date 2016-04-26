@@ -1,0 +1,28 @@
+Houston 20
+Tennessee 10
+Green Bay 38
+Detroit 10
+Cleveland 34
+Cincinnati 17
+Atlanta 21
+San Diego 20
+Washington 13
+Chicago 10
+Buffalo 20
+Miami 13
+Jacksonville 22
+Kansas City 16
+New England 30
+Seattle 20
+Philadelphia 30
+Carolina 8
+NY Jets 22
+San Francisco 14
+Pittsburgh 24
+Dallas 20
+Denver 31
+Oakland 3
+Minnesota 38
+New Orleans 31
+St. Louis 28
+Tampa Bay 21
